@@ -221,3 +221,5 @@ def uas_input():
         print("Program Selesai - Terima kasih!")
         break
 ```
+
+## Sekian Terimakasih
